@@ -116,7 +116,7 @@ questions:
 
   - question: Qu'est-ce qu'un ASIC ?
     answers:
-        - Une station de minage spécialisée sur une monnaie
+        - Un circuit intégré spécialisé pour le minage
         - Un coin
         - Un fragement de Bitcoin
         - Un système de refroidissement
